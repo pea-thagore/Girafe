@@ -5,4 +5,4 @@
 
 
 ## FAQ
- - *Why Girafe ? : * 'CAUSE Cloud Girafe (prononced Clou de girofle)
+ - **Why Girafe ? : ** 'CA-SE Cloud Girafe (prononced Clou de girofle)
